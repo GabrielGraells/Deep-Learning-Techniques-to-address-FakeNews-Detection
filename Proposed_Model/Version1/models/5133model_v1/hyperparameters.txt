@@ -1,0 +1,9 @@
+Accuracy: 0.5133111480865225
+lstm_num_layers: 3
+drop_rate: 0.3
+embedding_dimension: 400
+hidden_dimension: 512
+vocab_len: 3023
+num_epochs: 3
+clip: 5
+learning_rate: 0.0001

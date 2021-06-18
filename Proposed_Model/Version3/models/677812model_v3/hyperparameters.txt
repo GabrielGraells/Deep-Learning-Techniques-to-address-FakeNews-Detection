@@ -1,0 +1,28 @@
+Accuracy: 67.78125
+lstm_num_layers: 4
+drop_rate: 0.5
+embed_weights: [[ 0.          0.          0.         ...  0.          0.
+   0.        ]
+ [-0.00558472  0.34375     0.14355469 ... -0.00613403  0.04296875
+   0.03662109]
+ [ 0.04736328 -0.03173828  0.04077148 ... -0.24414062  0.02929688
+   0.08837891]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   0.        ]
+ [-0.09472656  0.28515625  0.20214844 ... -0.3125      0.13867188
+  -0.00872803]
+ [ 0.          0.          0.         ...  0.          0.
+   0.        ]]
+embed_dim: 300
+hidden_dimension: 128
+tags_dim: 525
+tags_num_layers: 512
+auth_num_layers: 512
+auth_dim: 299
+vocab_len: 2315
+linear_1_num_layers: 256
+linear_2_num_layers: 128
+num_epochs: 3
+clip: 5
+learning_rate: 0.0001

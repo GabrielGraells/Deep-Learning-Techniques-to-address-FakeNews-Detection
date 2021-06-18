@@ -1,0 +1,13 @@
+Accuracy: 86.06060606060606
+lstm_num_layers: 4
+drop_rate: 0.5
+embedding_dimension: 300
+hidden_dimension: 128
+auth_num_layers: 512
+vocab_len: 2315
+linear_1_num_layers: 256
+linear_2_num_layers: 128
+auth_dim: 299
+num_epochs: 3
+clip: 5
+learning_rate: 0.0001
